@@ -30,10 +30,9 @@ Para tornar o projeto mais criativo e visualmente interessante, foi adotada uma 
 
 ## 🚀 Funcionalidades Implementadas
 
-- Barra de navegação superior com campos de pesquisa e ícones interativos
+- Barra de navegação superior com campos de pesquisa e ícones
 - Sidebar com categorias do YouTube
 - Grade de vídeos sugeridos, cada um com miniatura, canal e informações de visualização
-- Estilo responsivo e fiel ao layout da plataforma original
 
 ## 🔗 Link para visualização
 
